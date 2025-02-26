@@ -63,7 +63,7 @@
             "type": "vcs",
             "url": "https://github.com/venngo/do-file-cache-psr-6"
         }
-    ]
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
